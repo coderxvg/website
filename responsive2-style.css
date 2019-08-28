@@ -1,0 +1,16 @@
+@media screen and (max-width:480px){
+    .logo-Responsive{
+        transform: translateY(-77px);
+        max-width: 188px;
+    }
+    .background-transparent{
+        height: 113px;
+        background-color: #fcf8e38a;
+    }
+    .section-top-padding{
+        background-size: 413px 470px;
+    }
+    .top-nav{
+        position: absolute;
+    }
+}

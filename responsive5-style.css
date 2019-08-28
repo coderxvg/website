@@ -1,0 +1,13 @@
+@media screen and (max-width:480px){
+    .background-transparent{
+        height: 117px;
+        background-color: #fcf8e38a;
+    }
+    .logoResponsive{
+        transform: translate(1px, -81px);
+        max-width: 209px;
+    }
+    #margin-top{
+        margin-top: -60px;
+    }
+}

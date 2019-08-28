@@ -1,0 +1,45 @@
+@media screen and (max-width:480px){
+    html{
+        margin-left: -1px;
+}
+.nav-text::after{
+    margin-left: 292px;
+}
+.mobile-responsive{
+    max-width: 178px;
+}
+.background-image{
+    height: 522px;
+}
+#immg{
+    max-height: 536px;
+}
+#reg{
+    transform: translateY(-93px);
+    max-width: 258px
+}
+header{
+    background-color: #ff900036;
+}
+.fa-desktop {
+    margin-left: 28px;
+}
+.fa-group{
+    margin-left: 28px;
+}
+.fa-film{
+    margin-left: 28px;
+}
+.fa-user{
+    margin-left: 28px;
+}
+.fa-flag{
+    margin-left: 28px; 
+}
+.fa-book{
+    margin-left: 28px; 
+}
+#return-to-top{
+    transform: translate(-28px, 10px);
+}
+}

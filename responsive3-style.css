@@ -1,0 +1,20 @@
+@media screen and (max-width:480px){
+
+    .logoResponsive{
+        transform: translate(5px, -84px);
+        max-width: 209px;
+    }
+    .background-transparent{
+        height: 117px;
+        background-color: #fcf8e38a;
+    }
+    .top-nav{
+        position: absolute;
+    }
+    .container-fluid{
+        padding-top: 54px;
+    }
+    .header-background{
+        background-size: 414px 468px;
+    }
+}
